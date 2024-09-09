@@ -1,0 +1,232 @@
+{
+  "login_label_name": "Username",
+  "login_name_validator_1": "Please enter email",
+  "login_name_validator_2": "Please enter valid email",
+  "login_label_password": "Password",
+  "login_password_validator_1": "Please enter password",
+  "remember_me": "Remember Me.",
+  "forgot_password": "Forgot Password?",
+  "login_button": "Login on Zomox",
+  "login_an_account": "Don't have an account ?",
+  "login_Signup": "Signup",
+  "Yes": "Yes",
+  "No": "No",
+  "Name": "Name",
+
+
+  "create_new_account": "Create New Account",
+  "register_label_fullName": "Full Name",
+  "register_label_searchCode": "Search",
+  "register_label_hintTextCode": "Start typing to search",
+  "register_fullName_validator_1": "Please enter name",
+  "register_fullName_validator_2": "Please enter valid name",
+  "register_label_emailAddress": "Email Address",
+  "register_emailAddress_validator_1": "Please enter email",
+  "register_emailAddress_validator_2": "Please enter valid email address",
+  "register_label_contact": "Contact No.",
+  "register_contact_validator_1": "Please enter phone",
+  "register_contact_validator_2": "Please enter valid number",
+  "register_label_password": "Password",
+  "register_password_validator_1": "Please enter Password",
+  "register_password_validator_2": "Password must be at least 6 characters",
+  "register_label_confirmPassword": "Confirm Password",
+  "register_confirmPassword_validator_1": "Please enter Password",
+  "register_confirmPassword_validator_2": "Password and confirm password does not match",
+  "register_text": "By clicking create account button, You agree with our\nTerms & Conditions and Privacy Policy",
+  "register_button": "Next",
+  "register_an_account": "Already have an account ?",
+  "register_login": "Login",
+
+
+  "home_internet_connection_toast": "Check your internet connection.",
+  "home_exit_App_toast": "Tap again to exit App",
+  "home_history": "History",
+  "home_manage_documents": "Manage Documents",
+  "home_change_language": "Change Language",
+  "home_change_password": "Change Password",
+  "home_notification_center": "Notification Center",
+  "home_support": "Support",
+  "home_about": "About",
+  "home_privacy_policy": "Privacy Policy",
+  "home_terms_and_conditions": "Terms and Conditions",
+  "home_log_out": "Log Out",
+  "home_log_out_title": "Are you sure you want to logout of this app?",
+  "home_remove_your_account": "Remove Your Account",
+  "home_delivery_zone": "Delivery Zone",
+  "home_button_set_delivery_zone": "Set Delivery Zone",
+        "homePage_oid": "OID:",
+        "homePage_km": " km",
+        "homePage_Payment": "Payment",
+        "homePage_today_earning": "Today's Earning",
+        "homePage_go_insight": "Go To Insight",
+        "homePage_order_tabButton" : "Delivery Orders",
+        "homePage_pickUp_tabButton" : "PickUp & Drop Orders",
+        "homePage_complete_status" : "Completed",
+        "homePage_pending_status" : "Pending",
+        "homePage_tapToCall" : "Tap To Call",
+
+  "uploadDocuments_title" : "Upload Documents",
+  "uploadDocuments_label_drivingLicense" : "Upload Your Driving License",
+  "uploadDocuments_drivingLicense_validator" : "Please Upload Driving License Image",
+  "uploadDocuments_label_NationalId" : "Upload Your One of National ID",
+  "uploadDocuments_NationalId_validator" : "Please Upload National Id Image",
+  "uploadDocuments_label_selectType" : "Select any one of them",
+  "uploadDocuments_text" : "For upload image of your document please attach the file of\n.jpeg, .png, .pdf",
+  "uploadDocuments_NationalId_toast" : "Select National Id Type",
+  "uploadDocuments_button" : "Next",
+  "uploadDocuments_from_gallery" : "From Gallery",
+  "uploadDocuments_from_camera" : "From Camera",
+
+
+  "oTPVerification_title" : "OTP Verification",
+  "oTPVerification_button" : "OTP Verify",
+  "oTPVerification_receive_otp" : "Do not receive OTP ? ",
+  "oTPVerification_resend_again" : "Resend Again",
+  "oTPVerification_text1" : "We will share a one OTP code, Dont share this code with",
+  "oTPVerification_text2" : "any other people, Please check your device",
+
+
+  "networkOff_connection_lost" : "Your Network Connection Lost !",
+  "networkOff_check_internet" : "Check your internet connection.",
+
+
+  "beforeOnline_offline" : "You are offline !",
+  "beforeOnline_text" : "Your duty status is offline. To check and receive your new job or task please change your duty status online.",
+
+
+  "Profile_title" : "Profile",
+  "Profile_editProfile" : "Edit Profile",
+  "Profile_earnings" : "Earnings",
+  "Profile_2020" : "2020",
+  "Profile_Yearly" : "Yearly",
+  "Profile_Monthly" : "Monthly",
+  "Profile_Weekly" : "Weekly",
+  "Profile_Daily" : "Daily",
+  "Profile_today_earning" : "Today's Earning",
+  "Profile_weekly_earning" : "Weekly Earning",
+  "Profile_monthly_earning" : "Monthly Earning",
+  "Profile_yearly_earning" : "Yearly Earning",
+
+
+  "profileEdit_title" : "Edit Profile",
+  "profileEdit_label_searchCode" : "Search",
+  "profileEdit_label_hintTextCode" : "Start typing to search",
+  "profileEdit_sub_title" : "Personal Information",
+  "profileEdit_full_name" : "Full Name",
+  "profileEdit_fullName_validator1" : "Please enter name",
+  "profileEdit_fullName_validator2" : "Please enter valid name",
+  "profileEdit_contact" : "Contact No.",
+  "profileEdit_contact_validator1" : "Please enter phone",
+  "profileEdit_contact_validator2" : "Please enter valid number",
+  "profileEdit_button" : "Edit Profile",
+  "profileEdit_from_gallery" : "From Gallery",
+  "profileEdit_from_camera" : "From Camera",
+
+
+  "manageDocument_title" : "Manage Documents",
+  "manageDocument_start_toast" : "Download Starting",
+  "manageDocument_end_toast" : "Download Complete",
+  "manageDocument_download_document" : "  Download Your Document",
+  "manageDocument_text" : "Your document is under process, we will notify you within 24 hours.",
+
+  "changeLanguage_title" : "Change Language",
+  "changeLanguage_text" : "We will add more language to be soon!",
+
+  "changePassword_title" : "Change Password",
+  "changePassword_sub_title" : "Change Password",
+  "changePassword_old_password" : "Old Password",
+  "changePassword_old_password_validator" : "Please enter old password",
+  "changePassword_new_password" : "New Password",
+  "changePassword_new_password_validator1" : "Please enter new password",
+  "changePassword_new_password_validator2" : "Password must be at least 6 characters",
+  "changePassword_confirm_password" : "Confirm Password",
+  "changePassword_confirm_password_validator1" : "Please enter confirm password",
+  "changePassword_confirm_password_validator2" : "Password and confirm password does not match",
+  "changePassword_button" : "Change Password",
+
+
+  "notificationCenter_title" : "Notification Center",
+  "notificationCenter_mute" : "Mute Notification",
+  "notificationCenter_mute_text" : "You won't receive any kind of notification from the application if you disabled it.",
+  "notificationCenter_vibration" : "Vibration Mode",
+  "notificationCenter_vibration_text" : "You won't receive any kind of notification from the application if you disabled it.",
+
+
+  "support_title" : "Support",
+  "support_1" : "1. ",
+  "support_text1" : "How does this work?",
+  "support_2" : "2. ",
+  "support_text2" : "Do you have a delivery fee?",
+  "support_3" : "3. ",
+  "support_text3" : "How long does it take for a delivery?",
+  "support_4" : "4. ",
+  "support_text4" : "How can I place my order?",
+  "support_5" : "5. ",
+  "support_text5" : "Is this app suitable for my restaurant business?",
+  "support_6" : "6. ",
+  "support_text6" : "What happens if I am missing items from my order when it is delivered?",
+  "support_7" : "7. ",
+  "support_text7" : "Who do I call if there is a mistake with my order?",
+
+
+  "about_title" : "About",
+  "about_copyright" : "© Copyright 2021-22 ZOMOX",
+  "about_right_reserved" : "All Rights Reserved",
+  "about_app_version" : "App Version 1.0.0",
+
+
+   "privacyPolicy_title" :  "Privacy Policy",
+
+
+  "termsAndCondition_title" : "Terms And Condition",
+
+
+  "noData_noData_available" : "No Data Available !",
+  "noData_text" : "You haven't any new job available right now,We'll notify you when any job available for you.",
+
+  "pickupOrder_title" : "Pickup Order",
+  "pickupOrder_km" : "km",
+  "pickupOrder_button" : "Pickup Order",
+  "pickupOrder_onTheWay_button" : "On The Way",
+
+  "deliveryOrder_title" : "Deliver Order",
+  "deliveryOrder_km" : "km",
+  "deliveryOrder_Reached_button" : "Reached",
+  "deliveryOrder_button" : "Deliver & Complete",
+
+  "deliverySuccess_text" : "You Delivered your order successfully!",
+  "deliverySuccess_button" : "Find another task",
+
+  "connection_timeout" : "Connection timeout",
+  "receive_timeout_request" : "Receive timeout in send request",
+  "receive_timeout_connection" : "Receive timeout in connection",
+  "exception_occurred" : "Exception occurred",
+  "request_cancelled" : "Request was cancelled",
+  "connection_failed" : "Connection failed. Please check internet connection",
+
+  "history_completeOrder" : "Complete\nOrders",
+  "history_cancelOrder" : "Cancel\nOrders",
+  "history_packageOrder" : "Package\nOrders",
+  "history_searchHint" : "Search Order ID or Username",
+  "history_oId" : "OID:",
+  "history_payment" : "Payment",
+  "history_complete" : "Completed",
+  "history_completeAt" : "Completed At",
+  "history_cancelReason" : "See Reason of Cancel Order",
+
+  "deliveryZone_deliveryZones" : "Delivery Zones",
+  "deliveryZone_hint" : "Select Delivery Zone",
+  "deliveryZone_validation" : "Please Select DeliveryZone",
+
+  "cancel_cancelOrder" : "Cancel Order",
+  "cancelOrder_text" : "Tell Us, Why you want to cancel this delivery ?",
+  "cancelOrder_button" : "Submit and Cancel Delivery",
+
+  "currentOrder_toast" : "Please complete previous order.",
+
+  "forgotPassword_text1" : "Check your email ID, we will share one OTP With You.",
+  "forgotPassword_text2" : "Don't share your OTP with any other.",
+  "forgotPassword_verityAccount" : "Verify Account"
+
+
+}

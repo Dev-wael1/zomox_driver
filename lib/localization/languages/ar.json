@@ -1,0 +1,232 @@
+{
+
+  "login_label_name": "اسم المستخدم",
+  "login_name_validator_1": "الرجاء إدخال البريد الإلكتروني",
+  "login_name_validator_2": "الرجاء إدخال بريد إلكتروني صحيح",
+  "login_label_password": "كلمه السر",
+  "login_password_validator_1": "الرجاء إدخال كلمة المرور",
+  "remember_me": "تذكرنى.",
+  "forgot_password": "هل نسيت كلمة السر؟",
+  "login_button": "تسجيل الدخول على Zomox",
+  "login_an_account": "ليس لديك حساب؟",
+  "login_Signup": "سجل",
+  "Yes": "نعم",
+  "No": "لا",
+  "Name": "الاسم",
+
+
+  "create_new_account": "انشاء حساب جديد",
+  "register_label_fullName": "الاسم الكامل",
+  "register_label_searchCode": "البحث",
+  "register_label_hintTextCode": "ابدأ الكتابة للبحث",
+  "register_fullName_validator_1": "الرجاء إدخال الاسم",
+  "register_fullName_validator_2": "الرجاء إدخال اسم صالح",
+  "register_label_emailAddress": "عنوان بريد الكتروني",
+  "register_emailAddress_validator_1": "الرجاء إدخال البريد الإلكتروني",
+  "register_emailAddress_validator_2": "الرجاء إدخال عنوان بريد إلكتروني صالح",
+  "register_label_contact": "رقم الاتصال.",
+  "register_contact_validator_1": "من فضلك ادخل رقم الهاتف",
+  "register_contact_validator_2": "الرجاء إدخال رقم صحيح",
+  "register_label_password": "كلمه السر",
+  "register_password_validator_1": "الرجاء إدخال كلمة المرور",
+  "register_password_validator_2": "يجب أن تتكون كلمة المرور من 6 أحرف على الأقل",
+  "register_label_confirmPassword": "تأكيد كلمة المرور",
+  "register_confirmPassword_validator_1": "الرجاء إدخال كلمة المرور",
+  "register_confirmPassword_validator_2": "كلمة المرور وتأكيد كلمة المرور غير متطابقين",
+  "register_text": "بالنقر فوق زر إنشاء حساب ، فإنك توافق على\nالشروط والأحكام وسياسة الخصوصية",
+  "register_button": "التالى",
+  "register_an_account": "لديك بالفعل حساب ؟",
+  "register_login": "تسجيل الدخول",
+
+
+  "home_internet_connection_toast": "تحقق من اتصالك بالإنترنت.",
+  "home_exit_App_toast": "انقر مرة أخرى للخروج من التطبيق",
+  "home_history": "تاريخها",
+  "home_manage_documents": "إدارة المستندات",
+  "home_change_language": "تغيير اللغة",
+  "home_change_password": "تغيير كلمة المرور",
+  "home_notification_center": "مركز إعلام",
+  "home_support": "دعم",
+  "home_about": "عن",
+  "home_privacy_policy": "سياسة الخصوصية",
+  "home_terms_and_conditions": "الشروط و الاحكام",
+  "home_log_out": "تسجيل خروج",
+  "home_log_out_title": "هل أنت متأكد أنك تريد تسجيل الخروج من هذا التطبيق؟",
+  "home_remove_your_account": "إزالة الحساب الخاص بك",
+  "home_delivery_zone": "منطقة التوصيل",
+  "home_button_set_delivery_zone": "تعيين منطقة التسليم",
+     "homePage_oid": "OID:",
+     "homePage_km": " كيلومترات",
+     "homePage_Payment": "دفع",
+     "homePage_today_earning": "أرباح اليوم",
+     "homePage_go_insight": "اذهب إلى إنسايت",
+     "homePage_order_tabButton" : "أوامر التسليم",
+     "homePage_pickUp_tabButton" : "استلام الطلبات وإسقاطها",
+     "homePage_complete_status" : "منجز",
+     "homePage_pending_status" : "قيد الانتظار",
+     "homePage_tapToCall" : "انقر للاتصال",
+
+
+  "uploadDocuments_title" : "تحميل المستندات",
+  "uploadDocuments_label_drivingLicense" : "قم بتحميل رخصة القيادة الخاصة بك",
+  "uploadDocuments_drivingLicense_validator" : "الرجاء تحميل صورة رخصة القيادة",
+  "uploadDocuments_label_NationalId" : "قم بتحميل رقم الهوية الوطنية الخاص بك",
+  "uploadDocuments_NationalId_validator" : "الرجاء تحميل صورة الرقم القومي",
+  "uploadDocuments_label_selectType" : "حدد أي واحد منهم",
+  "uploadDocuments_text" : "لتحميل صورة من المستند الخاص بك ، يرجى إرفاق ملف\n.jpeg ، .png ، .pdf",
+  "uploadDocuments_NationalId_toast" : "حدد نوع الهوية الوطنية",
+  "uploadDocuments_button" : "التالى",
+  "uploadDocuments_from_gallery" : "من الصور",
+  "uploadDocuments_from_camera" : "من الكاميرا",
+
+
+  "oTPVerification_title" : "التحقق من OTP",
+  "oTPVerification_button" : "تحقق من OTP",
+  "oTPVerification_receive_otp" : "لا تتلقى OTP؟",
+  "oTPVerification_resend_again" : "إعادة الإرسال مرة أخرى",
+  "oTPVerification_text1" : "سنقوم بمشاركة رمز OTP واحد ، ولا تشارك هذا الرمز مع",
+  "oTPVerification_text2" : "أي أشخاص آخرين ، يرجى التحقق من جهازك",
+
+
+  "networkOff_connection_lost" : "فقد اتصالك بالشبكة!",
+  "networkOff_check_internet" : "تحقق من اتصالك بالإنترنت.",
+
+
+  "beforeOnline_offline" : "انت غير متصل !",
+  "beforeOnline_text" : "حالة واجبك غير متصل. للتحقق من وظيفتك أو مهمتك الجديدة واستلامها ، يرجى تغيير وضعك الوظيفي عبر الإنترنت.",
+
+
+  "Profile_title" : "ملف التعريف الشخصي",
+  "Profile_editProfile" : "تعديل الملف الشخصي",
+  "Profile_earnings" : "Earnings",
+  "Profile_2020" : "2020",
+  "Profile_Yearly" : "سنويا",
+  "Profile_Monthly" : "شهريا",
+  "Profile_Weekly" : "أسبوعي",
+  "Profile_Daily" : "يوميا",
+  "Profile_today_earning" : "أرباح اليوم",
+  "Profile_weekly_earning" : "الكسب الأسبوعي",
+  "Profile_monthly_earning" : "أرباح شهرية",
+  "Profile_yearly_earning" : "الكسب السنوي",
+
+
+  "profileEdit_title" : "تعديل الملف الشخصي",
+  "profileEdit_label_searchCode" : "البحث",
+  "profileEdit_label_hintTextCode" : "ابدأ الكتابة للبحث",
+  "profileEdit_sub_title" : "معلومات شخصية",
+  "profileEdit_full_name" : "الاسم الكامل",
+  "profileEdit_fullName_validator1" : "الرجاء إدخال الاسم",
+  "profileEdit_fullName_validator2" : "الرجاء إدخال اسم صالح",
+  "profileEdit_contact" : "رقم الاتصال.",
+  "profileEdit_contact_validator1" : "من فضلك ادخل رقم الهاتف",
+  "profileEdit_contact_validator2" : "الرجاء إدخال رقم صحيح",
+  "profileEdit_button" : "تعديل الملف الشخصي",
+  "profileEdit_from_gallery" : "من الصور",
+  "profileEdit_from_camera" : "من كاميرا",
+
+
+  "manageDocument_title" : "إدارة المستندات",
+  "manageDocument_start_toast" : "بداية التحميل",
+  "manageDocument_end_toast" : "اكتمل التنزيل",
+  "manageDocument_download_document" : "قم بتنزيل المستند الخاص بك",
+  "manageDocument_text" : "المستند الخاص بك قيد المعالجة ، وسوف نخطرك في غضون 24 ساعة.",
+
+  "changeLanguage_title" : "تغيير اللغة",
+  "changeLanguage_text" : "سنضيف المزيد من اللغة قريبا!",
+
+  "changePassword_title" : "تغيير كلمة المرور",
+  "changePassword_sub_title" : "تغيير كلمة المرور",
+  "changePassword_old_password" : "كلمة المرور القديمة",
+  "changePassword_old_password_validator" : "الرجاء إدخال كلمة المرور القديمة",
+  "changePassword_new_password" : "كلمة المرور الجديدة",
+  "changePassword_new_password_validator1" : "الرجاء إدخال كلمة المرور الجديدة",
+  "changePassword_new_password_validator2" : "يجب أن تتكون كلمة المرور من 6 أحرف على الأقل",
+  "changePassword_confirm_password" : "تأكيد كلمة المرور",
+  "changePassword_confirm_password_validator1" : "الرجاء إدخال تأكيد كلمة المرور",
+  "changePassword_confirm_password_validator2" : "كلمة المرور وتأكيد كلمة المرور غير متطابقين",
+  "changePassword_button" : "تغيير كلمة المرور",
+
+
+  "notificationCenter_title" : "مركز إعلام",
+  "notificationCenter_mute" : "إشعار كتم الصوت",
+  "notificationCenter_mute_text" : "لن تتلقى أي نوع من الإشعارات من التطبيق إذا قمت بتعطيله.",
+  "notificationCenter_vibration" : "وضع الاهتزاز",
+  "notificationCenter_vibration_text" : "لن تتلقى أي نوع من الإشعارات من التطبيق إذا قمت بتعطيله.",
+
+
+  "support_title" : "دعم",
+  "support_1" : "1. ",
+  "support_text1" : "كيف يعمل هذا؟",
+  "support_2" : "2. ",
+  "support_text2" : "هل لديك رسوم توصيل؟",
+  "support_3" : "3. ",
+  "support_text3" : "كم من الوقت يستغرق التسليم؟",
+  "support_4" : "4. ",
+  "support_text4" : "كيف يمكنني وضع طلبي؟",
+  "support_5" : "5. ",
+  "support_text5" : "هل هذا التطبيق مناسب لعملي في المطعم؟",
+  "support_6" : "6. ",
+  "support_text6" : "ماذا يحدث إذا فقدت بعض العناصر من طلبي عند توصيله؟",
+  "support_7" : "7. ",
+  "support_text7" : "بمن أتصل في حال وجود خطأ في طلبي؟",
+
+
+  "about_title" : "عن",
+  "about_copyright" : "© حقوق الطبع والنشر 2021-22 ZOMOX",
+  "about_right_reserved" : "كل الحقوق محفوظة",
+  "about_app_version" : "إصدار التطبيق 1.0.0",
+
+
+  "privacyPolicy_title" :  "سياسة الخصوصية",
+
+
+  "termsAndCondition_title" : "أحكام وشروط",
+
+
+  "noData_noData_available" : "لا تتوافر بيانات !",
+  "noData_text" : "ليس لديك أي وظيفة جديدة متاحة في الوقت الحالي ، وسنخطرك عند توفر أي وظيفة لك.",
+
+  "pickupOrder_title" : "أمر بيك اب",
+  "pickupOrder_km" : "كيلومتر",
+  "pickupOrder_button" : "أمر بيك اب",
+  "pickupOrder_onTheWay_button" : "بالطريق",
+
+  "deliveryOrder_title" : "أمر التسليم",
+  "deliveryOrder_km" : "كيلومتر",
+  "deliveryOrder_Reached_button" : "وصلت",
+  "deliveryOrder_button" : "تسليم واستكمال",
+
+  "deliverySuccess_text" : "لقد قمت بتسليم طلبك بنجاح!",
+  "deliverySuccess_button" : "ابحث عن مهمة أخرى",
+
+  "connection_timeout" : "انتهى وقت محاولة الاتصال",
+  "receive_timeout_request" : "تلقي المهلة في طلب الإرسال",
+  "receive_timeout_connection" : "تلقي مهلة الاتصال",
+  "exception_occurred" : "حدث استثناء",
+  "request_cancelled" : "تم إلغاء الطلب",
+  "connection_failed" : "فشل الاتصال. يرجى التحقق من اتصال الإنترنت",
+
+  "history_completeOrder" : "مكتمل\nأوامر",
+  "history_cancelOrder" : "إلغاء\nأوامر",
+  "history_packageOrder" : "رزمة\nأوامر",
+  "history_searchHint" : "البحث في معرف الطلب أو اسم المستخدم",
+  "history_oId" : "OID:",
+  "history_payment" : "دفع",
+  "history_complete" : "منجز",
+  "history_completeAt" : "اكتمل عند",
+  "history_cancelReason" : "انظر سبب إلغاء الطلب",
+
+  "deliveryZone_deliveryZones" : "مناطق التوصيل",
+  "deliveryZone_hint" : "حدد منطقة التسليم",
+  "deliveryZone_validation" : "يرجى تحديد منطقة التسليم",
+
+  "cancel_cancelOrder" : "الغاء الطلب",
+  "cancelOrder_text" : "أخبرنا لماذا تريد إلغاء هذا التسليم؟",
+  "cancelOrder_button" : "إرسال وإلغاء التسليم",
+
+  "currentOrder_toast" : "الرجاء إكمال الطلب السابق.",
+
+   "forgotPassword_text1" : "تحقق من معرف البريد الإلكتروني الخاص بك ، وسوف نشارك OTP واحد معك.",
+   "forgotPassword_text2" : "لا تشارك OTP الخاص بك مع أي شخص آخر.",
+   "forgotPassword_verityAccount" : "تحقق من الحساب"
+}

@@ -1,0 +1,235 @@
+{
+
+  "login_label_name": "Nombre de usuario",
+  "login_name_validator_1": "Por favor ingrese su correo electrónico",
+  "login_name_validator_2": "Por favor introduzca un correo electrónico válido",
+  "login_label_password": "Contraseña",
+  "login_password_validator_1": "Por favor, ingrese contraseña",
+  "remember_me": "Recuérdame.",
+  "forgot_password": "¿Se te olvidó tu contraseña?",
+  "login_button": "Iniciar sesión en Zomox",
+  "login_an_account": "¿No tienes una cuenta?",
+  "login_Signup": "Regístrate",
+  "Yes": "sí",
+  "No": "No",
+  "Name": "Nombre",
+
+
+  "create_new_account": "Crear una nueva cuenta",
+  "register_label_fullName": "Nombre completo",
+  "register_label_searchCode": "Búsqueda",
+  "register_label_hintTextCode": "Empiece a escribir para buscar",
+  "register_fullName_validator_1": "Por favor ingrese su nombre",
+  "register_fullName_validator_2": "Ingrese un nombre válido",
+  "register_label_emailAddress": "Dirección de correo electrónico",
+  "register_emailAddress_validator_1": "Por favor ingrese su correo electrónico",
+  "register_emailAddress_validator_2": "Por favor ingrese una dirección de correo electrónico válida",
+  "register_label_contact": "Contacto No.",
+  "register_contact_validator_1": "Por favor ingrese el número de teléfono.",
+  "register_contact_validator_2": "Ingrese un número válido",
+  "register_label_password": "Contraseña",
+  "register_password_validator_1": "Por favor, ingrese contraseña",
+  "register_password_validator_2": "La contraseña debe tener al menos 6 caracteres",
+  "register_label_confirmPassword": "confirmar Contraseña",
+  "register_confirmPassword_validator_1": "Por favor, ingrese contraseña",
+  "register_confirmPassword_validator_2": "La contraseña y la contraseña de confirmación no coinciden",
+  "register_text": "Al hacer clic en el botón Crear cuenta, acepta nuestra\nTérminos y condiciones y política de privacidad",
+  "register_button": "Próximo",
+  "register_an_account": "Ya tiene una cuenta ?",
+  "register_login": "Iniciar sesión",
+
+
+  "home_internet_connection_toast": "Comprueba tu conexión a Internet.",
+  "home_exit_App_toast": "Toque nuevamente para salir de la aplicación",
+  "home_history": "Historia",
+  "home_manage_documents": "Gestionar documentos",
+  "home_change_language": "Cambiar idioma",
+  "home_change_password": "Cambiar la contraseña",
+  "home_notification_center": "Centro de notificaciones",
+  "home_support": "Apoyo",
+  "home_about": "Acerca de",
+  "home_privacy_policy": "Política de privacidad",
+  "home_terms_and_conditions": "Términos y condiciones",
+  "home_log_out": "Finalizar la sesión",
+  "home_log_out_title": "¿Estás segura de que quieres cerrar sesión en esta aplicación?",
+  "home_remove_your_account": "Quitar su cuenta",
+  "home_delivery_zone": "Zona de entrega",
+  "home_button_set_delivery_zone": "Establecer zona de entrega",
+       "homePage_oid": "OID:",
+       "homePage_km": " km",
+       "homePage_Payment": "Pago",
+       "homePage_today_earning": "Ingresos de hoy",
+       "homePage_go_insight": "Ir a Insight",
+       "homePage_order_tabButton" : "Órdenes de entrega",
+       "homePage_pickUp_tabButton" : "Pedidos de recogida y entrega",
+       "homePage_complete_status" : "Terminada",
+       "homePage_pending_status" : "Pendiente",
+       "homePage_tapToCall" : "Toque para llamar",
+
+
+  "uploadDocuments_title" : "subir documentos",
+  "uploadDocuments_label_drivingLicense" : "Cargue su carnet de conducir",
+  "uploadDocuments_drivingLicense_validator" : "Cargue la imagen del permiso de conducir",
+  "uploadDocuments_label_NationalId" : "Cargue su identificación nacional",
+  "uploadDocuments_NationalId_validator" : "Cargue la imagen de identificación nacional",
+  "uploadDocuments_label_selectType" : "Selecciona cualquiera de ellas",
+  "uploadDocuments_text" : "Para cargar la imagen de su documento, adjunte el archivo de\n.jpeg, .png, .pdf",
+  "uploadDocuments_NationalId_toast" : "Seleccione el tipo de identificación nacional",
+  "uploadDocuments_button" : "Próxima",
+  "uploadDocuments_from_gallery" : "Desde la Galería",
+  "uploadDocuments_from_camera" : "Desde la cámara",
+
+
+  "oTPVerification_title" : "Verificación OTP",
+  "oTPVerification_button" : "Verificación de OTP",
+  "oTPVerification_receive_otp" : "¿No recibe la OTP?",
+  "oTPVerification_resend_again" : "Reenviar de nuevo",
+  "oTPVerification_text1" : "Compartiremos un código OTP, no comparta este código con",
+  "oTPVerification_text2" : "cualquier otra persona, por favor revise su dispositivo",
+
+
+  "networkOff_connection_lost" : "¡Se perdió su conexión de red!",
+  "networkOff_check_internet" : "Comprueba tu conexión a Internet.",
+
+  "beforeOnline_offline" : "Estas desconectado !",
+  "beforeOnline_text" : "Su estado de servicio está fuera de línea. Para verificar y recibir su nuevo trabajo o tarea, cambie su estado de servicio en línea.",
+
+
+  "Profile_title" : "Perfil",
+  "Profile_editProfile" : "Editar perfil",
+  "Profile_earnings" : "Ingresos",
+  "Profile_2020" : "2020",
+  "Profile_Yearly" : "Anualmente",
+  "Profile_Monthly" : "Mensual",
+  "Profile_Weekly" : "Semanalmente",
+  "Profile_Daily" : "Diaria",
+  "Profile_today_earning" : "Ingresos de hoy",
+  "Profile_weekly_earning" : "Ganancias semanales",
+  "Profile_monthly_earning" : "Ingresos mensuales",
+  "Profile_yearly_earning" : "Ingresos anuales",
+
+
+  "profileEdit_title" : "Editar perfil",
+  "profileEdit_label_searchCode" : "Búsqueda",
+  "profileEdit_label_hintTextCode" : "Empiece a escribir para buscar",
+  "profileEdit_sub_title" : "Informacion personal",
+  "profileEdit_full_name" : "Nombre completo",
+  "profileEdit_fullName_validator1" : "Por favor ingrese el nombre",
+  "profileEdit_fullName_validator2" : "Por favor ingrese el nombrePor favor ingrese un nombre válido",
+  "profileEdit_contact" : "No. de contacto",
+  "profileEdit_contact_validator1" : "Por favor ingrese el número de teléfono.",
+  "profileEdit_contact_validator2" : "Ingrese un número válido",
+  "profileEdit_button" : "Editar perfil",
+  "profileEdit_from_gallery" : "De la galería",
+  "profileEdit_from_camera" : "Desde la cámara",
+
+
+  "manageDocument_title" : "Gestionar documentos",
+  "manageDocument_start_toast" : "Descarga comenzando",
+  "manageDocument_end_toast" : "Descargar completa",
+  "manageDocument_download_document" : "Descargue su documento",
+  "manageDocument_text" : "Su documento está en proceso, le notificaremos dentro de las 24 horas.",
+
+  "changeLanguage_title" : "Cambiar idioma",
+  "changeLanguage_text" : "¡Agregaremos más lenguaje pronto!",
+
+  "changePassword_title" : "Cambiar la contraseña",
+  "changePassword_sub_title" : "Cambiar la contraseña",
+  "changePassword_old_password" : "Contraseña anterior",
+  "changePassword_old_password_validator" : "Ingrese la contraseña anterior",
+  "changePassword_new_password" : "Nueva contraseña",
+  "changePassword_new_password_validator1" : "Por favor ingrese nueva contraseña",
+  "changePassword_new_password_validator2" : "La contraseña debe tener al menos 6 caracteres",
+  "changePassword_confirm_password" : "confirmar Contraseña",
+  "changePassword_confirm_password_validator1" : "Por favor ingrese confirmar contraseña",
+  "changePassword_confirm_password_validator2" : "La contraseña y la contraseña de confirmación no coinciden",
+  "changePassword_button" : "Cambiar la contraseña",
+
+
+  "notificationCenter_title" : "Centro de notificaciones",
+  "notificationCenter_mute" : "Silenciar notificación",
+  "notificationCenter_mute_text" : "No recibirás ningún tipo de notificación del aplicación si la desactivó.",
+  "notificationCenter_vibration" : "Modo vibracion",
+  "notificationCenter_vibration_text" : "No recibirás ningún tipo de notificación del aplicación si la desactivó.",
+
+
+  "support_title" : "Apoyo",
+  "support_1" : "1. ",
+  "support_text1" : "¿Como funciona esto?",
+  "support_2" : "2. ",
+  "support_text2" : "¿Tiene una tarifa de envío?",
+  "support_3" : "3. ",
+  "support_text3" : "¿Cuánto tiempo tarda una entrega?",
+  "support_4" : "4. ",
+  "support_text4" : "¿Cómo puedo realizar mi pedido?",
+  "support_5" : "5. ",
+  "support_text5" : "¿Esta aplicación es adecuada para mi restaurante negocio?",
+  "support_6" : "6. ",
+  "support_text6" : "¿Qué sucede si me faltan elementos de mi pedido cuando es entregado?",
+  "support_7" : "7. ",
+  "support_text7" : "¿A quién llamo si hay un error con mi pedido?",
+
+
+  "about_title" : "Acerca de",
+  "about_copyright" : "© Derechos de autor 2021-22 ZOMOX",
+  "about_right_reserved" : "Reservados todos los derechos",
+  "about_app_version" : "Versión de la aplicación 1.0.0",
+
+
+  "privacyPolicy_title" :  "Política de privacidad",
+
+
+  "termsAndCondition_title" : "Términos y condición",
+
+
+  "noData_noData_available" : "No hay datos disponibles !",
+  "noData_text" : "No tiene ningún trabajo nuevo disponible en este momento, le notificaremos cuando haya algún trabajo disponible para usted.",
+
+
+  "pickupOrder_title" : "Orden para recoger",
+  "pickupOrder_km" : "km",
+  "pickupOrder_button" : "Orden para recoger",
+  "pickupOrder_onTheWay_button" : "En camino",
+
+
+  "deliveryOrder_title" : "Entregar orden",
+  "deliveryOrder_km" : "km",
+  "deliveryOrder_Reached_button" : "Alcanzó",
+  "deliveryOrder_button" : "Entregar y completar",
+
+
+  "deliverySuccess_text" : "¡Has entregado tu pedido con éxito!",
+  "deliverySuccess_button" : "Encuentra otra tarea",
+
+
+  "connection_timeout" : "Tiempo de espera de conexión",
+  "receive_timeout_request" : "Recibir tiempo de espera en la solicitud de envío",
+  "receive_timeout_connection" : "Recibir tiempo de espera en conexión",
+  "exception_occurred" : "Ocurrió una excepción",
+  "request_cancelled" : "La solicitud fue cancelada",
+  "connection_failed" : "La conexión falló. Comprueba la conexión a Internet.",
+
+  "history_completeOrder" : "Completar\nPedidos",
+  "history_cancelOrder" : "Cancelar\nPedidos",
+  "history_packageOrder" : "Paquete\nPedidos",
+  "history_searchHint" : "ID de pedido de búsqueda o nombre de usuario",
+  "history_oId" : "OID:",
+  "history_payment" : "Pago",
+  "history_complete" : "Terminada",
+  "history_completeAt" : "Completado en",
+  "history_cancelReason" : "Ver el motivo de la cancelación del pedido",
+
+  "deliveryZone_deliveryZones" : "Zonas de entrega",
+  "deliveryZone_hint" : "Seleccionar zona de entrega",
+  "deliveryZone_validation" : "Seleccione DeliveryZone",
+
+  "cancel_cancelOrder" : "Cancelar pedido",
+  "cancelOrder_text" : "Cuéntanos, ¿por qué quieres cancelar esta entrega?",
+  "cancelOrder_button" : "Presentar y cancelar la entrega",
+
+  "currentOrder_toast" : "Complete el pedido anterior.",
+
+  "forgotPassword_text1" : "Verifique su ID de correo electrónico, compartiremos una OTP con usted.",
+  "forgotPassword_text2" : "No comparta su OTP con ninguna otra.",
+  "forgotPassword_verityAccount" : "Verificar Cuenta"
+}
